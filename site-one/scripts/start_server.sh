@@ -1,1 +1,0 @@
-echo start_server
